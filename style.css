@@ -1,5 +1,6 @@
 body {
   background-color: #32323e;
+  width: 100%;
 }
 h2 {
   border-radius: 100px;
@@ -19,7 +20,7 @@ img.gambar {
 }
 
 .home-subscribe {
-  width: 1400px;
+  width: 100%;
   padding: 15px 0px 30px;
   margin: 28px 0px 0px;
 }
