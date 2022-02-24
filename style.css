@@ -19,6 +19,7 @@ img.gambar {
 }
 
 .home-subscribe {
+  width: 1400px;
   padding: 15px 0px 30px;
   margin: 28px 0px 0px;
 }
@@ -55,7 +56,4 @@ h2.caption1 {
 
 .container-carousel {
   padding-top: 70px;
-}
-
-.d-flex {
 }
