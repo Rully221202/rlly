@@ -1,0 +1,61 @@
+body {
+  background-color: #32323e;
+}
+h2 {
+  border-radius: 100px;
+  color: white;
+  margin-top: 20px;
+  font-size: 25px;
+  font-family: sans-serif;
+}
+img.gambar {
+  border-radius: 10px;
+  float: left;
+}
+
+.col-sm-3 {
+  width: 265px;
+  margin: 10px;
+}
+
+.home-subscribe {
+  padding: 15px 0px 30px;
+  margin: 28px 0px 0px;
+}
+
+.sub-caption {
+  letter-spacing: 0.15em;
+  font-size: 12px;
+}
+
+.caption-grup {
+  margin-top: 15px;
+}
+
+h2 {
+  margin-top: 0.2em;
+}
+
+h2.caption1 {
+  padding-top: 30px;
+}
+.social-media {
+  margin: 0 20px;
+}
+
+.ig,
+.tt {
+  margin: 0 20px;
+}
+
+.email,
+.whatsapp {
+  text-decoration: none;
+}
+
+.container-carousel {
+  padding-top: 70px;
+}
+
+.d-flex {
+}
